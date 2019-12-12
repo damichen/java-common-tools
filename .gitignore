@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -21,3 +22,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+.project
+.classpath
+*.log
+pids/*
+!.gitignore
+.project
+.settings/
+**/*.svn
+**/*.pmd
+*.svn
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+.idea
+**/target/*
+**/logs/*
+test-output/
+>>>>>>> creatproject
